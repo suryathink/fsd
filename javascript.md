@@ -1,6 +1,7 @@
 Javascript Topics:
 
 - primitives data types
+    - Ok 
 - variables, string, numbers, booleans, undefined, null, NaN
 - arithmetic operators
 - comparison operators
