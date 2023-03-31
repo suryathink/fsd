@@ -8,8 +8,9 @@
 - [HTML](#)
 - [CSS](#)
 - [Data Structures & Algo](https://github.com/trekhleb/javascript-algorithms)
-- [CodeSnippets]()
-How to Contribute?
+- [CodeSnippets](https://github.com/suryathink/fsd/blob/master/CodeSnippets.md)
+
+ How to Contribute?
 
 - Raise a PR
 - As of now topic wise is the format I am following
